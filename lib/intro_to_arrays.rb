@@ -21,3 +21,15 @@ end
 def last_element(array)
   array[-1]
 end
+
+def first_element_with_array_methods(array)
+  first_element
+end
+
+def last_element_with_array_methods(array)
+  last_element
+end
+
+def length_of_array(array)
+  array.length
+end
